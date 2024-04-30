@@ -1,0 +1,8 @@
+12:36:56.376 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:56.399 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:52:42.194 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+13:52:42.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+13:52:43.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+13:52:43.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+13:52:44.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test case pass
+13:52:44.123 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case finish

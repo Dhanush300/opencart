@@ -1,0 +1,50 @@
+22:50:04.710 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:50:04.715 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:50:04.673 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:50:04.718 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:50:06.325 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:50:06.326 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:50:06.912 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:50:06.984 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:50:07.945 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:50:08.062 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:35:14.048 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:35:14.052 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:35:15.167 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:35:15.687 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:35:17.632 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:35:21.146 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:35:21.146 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:35:22.136 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:35:23.359 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:35:24.237 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:38:22.001 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:38:22.004 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:38:22.081 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:38:22.082 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:38:23.542 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:38:23.577 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:38:24.242 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:38:24.244 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:38:25.324 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:38:25.411 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:39:09.506 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:39:09.511 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:39:10.352 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:39:10.759 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:39:11.538 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:39:39.176 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:39:39.179 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:39:39.974 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:39:40.316 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:39:41.205 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation message mismatch
+22:44:12.029 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:44:12.033 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:44:12.745 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:44:12.745 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:44:14.550 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+22:44:14.552 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+22:44:14.733 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:44:14.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+22:44:15.650 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+22:44:15.739 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation

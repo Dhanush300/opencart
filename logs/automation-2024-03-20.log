@@ -1,0 +1,53 @@
+17:19:47.162 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:19:47.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:19:57.244 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:20:12.160 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:20:12.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:20:15.670 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:20:39.461 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:20:39.465 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:20:43.444 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:20:43.444 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:20:48.823 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:20:49.479 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:20:53.458 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:21:41.649 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:21:41.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:21:48.462 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:21:54.011 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:21:54.011 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:21:56.075 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:22:35.460 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:22:35.463 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:22:37.782 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:22:37.782 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:22:44.286 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:22:45.497 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:22:47.825 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - Test case fail
+17:24:16.215 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:24:16.233 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:24:16.386 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:24:16.386 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:24:16.409 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:24:16.411 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:24:18.809 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+17:24:18.974 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+17:24:20.410 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+17:24:20.415 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+17:24:21.880 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+17:24:22.492 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+17:24:22.959 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Test case pass
+17:24:22.964 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Test case finish
+17:24:22.993 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Test case pass
+17:24:22.994 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Test case finish
+17:24:23.935 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Test case pass
+17:24:23.936 [TestNG-tests-3] DEBUG testCases.TC_001_AccountRegistrationTest - Test case finish
+17:24:47.335 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:24:47.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:24:48.237 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
+17:24:48.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validation
+17:24:49.496 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test case pass
+17:24:49.500 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case finish
+17:25:08.867 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Test case start
+17:25:08.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - navigating to Registration page
+17:25:09.940 [main] INFO  testCases.TC_001_AccountRegistrationTest - Filling details
